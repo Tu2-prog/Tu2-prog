@@ -4,6 +4,7 @@ Welcome to my GitHub page! I am Tú and I am a university student at the Univers
 
 ## My Tech Stack
 My Tech Stack includes:
+
 ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
 
 ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg)

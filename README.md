@@ -4,11 +4,15 @@ Welcome to my GitHub page! I am Tú and I am a university student at the Univers
 
 ## My Tech Stack
 My Tech Stack includes:
-* [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-* [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
-* [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
-* ![Terraform](https://logo.svgcdn.com/l/terraform.svg)
-* ![Jupyter](https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg)
+![Python](https://upload.wikimedia.org/wikipedia/commons/f/f8/Python-logo-notext.svg)
+
+![JavaScript](https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg)
+
+![TypeScript](https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg)
+
+![Terraform](https://logo.svgcdn.com/l/terraform.svg)
+
+![Jupyter](https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg)
 ## Frameworks
 
 * [![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#)
